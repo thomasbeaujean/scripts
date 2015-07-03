@@ -1,1 +1,1 @@
-php app/console $1
+php app/console $1 $2
