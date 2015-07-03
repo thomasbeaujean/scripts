@@ -72,6 +72,9 @@ sudo gem install compass
 
 sudo nano /etc/network/interfaces 
 
+sudo apt-get install postgresql postgresql-client
+sudo apt-get install php5-pgsql
+
 
 # The loopback network interface
 auto lo
