@@ -88,6 +88,9 @@ iface eth0 inet static
 	gateway 192.168.0.254
 	dns-nameservers 212.27.40.241
 
+sudo add-apt-repository ppa:cwchien/gradle
+sudo apt-get update
+sudo apt-get install gradle
 
 INSTALLATION DE JAVA 8
 
