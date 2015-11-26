@@ -12,6 +12,8 @@ scripts utiles
 
  alias sfas=/var/www/scripts/sfas.sh
 
+ alias sfpu=/var/www/scripts/sfpu.sh
+
  alias cdwww="cd /var/www"
 
  alias getcomposer="curl -sS https://getcomposer.org/installer | php"
